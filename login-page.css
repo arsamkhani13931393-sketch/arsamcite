@@ -1,0 +1,66 @@
+body{
+    background-color: #33CCFF;
+}
+.div_orginal{
+    width: 420px;
+    height: 600px;
+    border: 1px solid ;
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-left: 530px;
+    margin-top: 50px;
+}
+.div_orginal img{
+    margin-left: 100px;
+}
+.input_user_name{
+    width: 360px;
+    height: 40px;
+    margin-left: 25px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.p_of_username{
+    margin-left: 330px;
+}
+.button_of_send{
+    width: 360px;
+    height: 40px;
+    margin-left: 25px;
+    border-radius: 15px;
+    border: 1px solid blue;
+    color: #ffffff;
+    background-color: #3333CC;
+    font-size: 20px;
+}
+.div_of_rahnemaii{
+    width: 360px;
+    height: 180px;
+    background-color: rgba(12, 112, 220, 0.512);
+    margin-left: 25px;
+    border-radius: 8px;
+    text-align: end;
+    padding-right: 20px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.rahnemaii_login{
+    color: #0000FF;
+    margin-bottom: 5px;
+}
+.div_student{
+    display: flex;
+    color: #0066FF;
+    direction: rtl;
+}
+body{
+  font-family: 'Vazirmatn', sans-serif;
+}
+.p{
+    margin-right: 5px;
+}
+.input_user_name::placeholder{
+    text-align: center;
+}
